@@ -4,8 +4,8 @@ metadata:
   name: cm01
 data:
   URL: www.com
-  name: manoj.com
-  from: mncl.com
+  NAME: manoj.com
+  FROM: mncl.com
 
 ---
 apiVersion: v1
